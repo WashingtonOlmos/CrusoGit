@@ -1,3 +1,3 @@
-onload{
+onclick{
     alert("bienvenido");
 }
